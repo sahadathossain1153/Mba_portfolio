@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Analytics: A/B testing, forecasting, cohort analysis\nBusiness: Market sizing, unit economics, competitive strategy\nTools: Excel, SQL, Python/R, Tableau/Power BI, Quarto\n\n\n\n\n\n\nExcel/Sheets\n\n\n\nSQL\n\n\n\nPython/R\n\n\n\nTableau/Power BI\n\n\n\n\n\n\n\nBusiness Analysis Essentials (LinkedIn Learning)\nServe It Right (British Columbia)\nDigital Marketing (Digital Marketing Institute)\nData Analysis with Python"
+  },
+  {
+    "objectID": "skills.html#core-skills",
+    "href": "skills.html#core-skills",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Analytics: A/B testing, forecasting, cohort analysis\nBusiness: Market sizing, unit economics, competitive strategy\nTools: Excel, SQL, Python/R, Tableau/Power BI, Quarto"
+  },
+  {
+    "objectID": "skills.html#proficiency-self-rated",
+    "href": "skills.html#proficiency-self-rated",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Excel/Sheets\n\n\n\nSQL\n\n\n\nPython/R\n\n\n\nTableau/Power BI"
+  },
+  {
+    "objectID": "skills.html#certifications",
+    "href": "skills.html#certifications",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Business Analysis Essentials (LinkedIn Learning)\nServe It Right (British Columbia)\nDigital Marketing (Digital Marketing Institute)\nData Analysis with Python"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection — Using LLMs Across a Multi-Page Build",
+    "section": "",
+    "text": "Reflection (≈370 words)\nWhat improved as I added pages.\nMoving from a single-page site to a multi-page portfolio forced me to clarify my information architecture. I began by asking an LLM to propose a site map prioritizing recruiter needs (Resume and Projects above the fold). That sped up planning. I then iterated on section scaffolds and shifted to a consistent context → actions → results frame for case studies. The separation of pages also made my navigation cleaner and the content easier to skim.\nEnsuring authenticity and accuracy.\nI treated LLM output as a draft scaffold rather than a final product. For each project I replaced generic phrases with my real numbers and linked to artifacts (decks or dashboards). Where I referenced external facts or frameworks, I used APA-style citations and verified sources independently. If I could not verify a claim, I removed it. I also used the LLM to generate checklists (e.g., “What must a case study include to be credible?”) and used those to audit each page for evidence and clarity.\nAccessibility and usability practices.\nI added alternative text to images, descriptive link names (“Download resume (PDF)” rather than “click here”), and checked heading order. I chose a high-contrast, readable theme and tested keyboard focus. I enabled the site search, kept the content width to about 920px for better reading, and used simple progress bars with ARIA labels for skill proficiency.\nWhat didn’t work and how I adapted.\nEarly drafts from the LLM sounded generic and sometimes overstated achievements. I solved this by feeding bullet-point facts first (metrics, role, timeline) and asking for a concise, first‑person rewrite. I also centralized visual styling in a single CSS file and previewed often to catch spacing issues.\nWhat I would do next.\nI plan to add a Publications page after I publish more writing and to convert the project visuals into cleaner before/after charts. I will also add basic analytics to understand which pages matter most to recruiters and iterate accordingly.\n\nLLM disclosure: I used an LLM to brainstorm the site map, generate initial prose scaffolds, and produce checklists. I reviewed, verified, and edited all content and take full responsibility for accuracy."
+  },
+  {
+    "objectID": "leadership.html",
+    "href": "leadership.html",
+    "title": "Leadership & Service",
+    "section": "",
+    "text": "&lt;strong&gt;Operations Club — Coordinator (2024–2025)&lt;/strong&gt;&lt;br/&gt;\nLaunched mentorship circle; membership &lt;strong&gt;+48%&lt;/strong&gt;.\n\n\n&lt;strong&gt;Community Volunteering — Organizer (2023–2024)&lt;/strong&gt;&lt;br/&gt;\nCoordinated three drives; funds raised: &lt;strong&gt;$18k&lt;/strong&gt;.\n\n\n\n\n\n\nLead with transparency and data; invite dissenting views in pre-mortems.\nDefault to accessibility-first content (alt text, keyboard nav, contrast)."
+  },
+  {
+    "objectID": "leadership.html#roles-impact",
+    "href": "leadership.html#roles-impact",
+    "title": "Leadership & Service",
+    "section": "",
+    "text": "&lt;strong&gt;Operations Club — Coordinator (2024–2025)&lt;/strong&gt;&lt;br/&gt;\nLaunched mentorship circle; membership &lt;strong&gt;+48%&lt;/strong&gt;.\n\n\n&lt;strong&gt;Community Volunteering — Organizer (2023–2024)&lt;/strong&gt;&lt;br/&gt;\nCoordinated three drives; funds raised: &lt;strong&gt;$18k&lt;/strong&gt;."
+  },
+  {
+    "objectID": "leadership.html#inclusion-ethics",
+    "href": "leadership.html#inclusion-ethics",
+    "title": "Leadership & Service",
+    "section": "",
+    "text": "Lead with transparency and data; invite dissenting views in pre-mortems.\nDefault to accessibility-first content (alt text, keyboard nav, contrast)."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\n\n\n Address: 4 E 46th Avenue, Vancouver, British Columbia, V5W 1Z1\n\n\n Email: hossainrobin6831@gmail.com\n\n\n LinkedIn: linkedin.com/in/md-sahadat-hossainn\n\n\n Location/Time zone: Vancouver, BC · GMT-7/−8\n\n\nFor collaborations or speaking, include a short context and timeline in your message."
+  },
+  {
+    "objectID": "appendix.html",
+    "href": "appendix.html",
+    "title": "Appendix — LLM Outputs & Revisions",
+    "section": "",
+    "text": "This appendix stores the LLM-generated site map and section drafts and shows how I revised them for authenticity and accuracy."
+  },
+  {
+    "objectID": "appendix.html#llm-draft-v1-site-map",
+    "href": "appendix.html#llm-draft-v1-site-map",
+    "title": "Appendix — LLM Outputs & Revisions",
+    "section": "LLM Draft v1 — Site Map",
+    "text": "LLM Draft v1 — Site Map\n\nHome/About\nResume/CV\nProjects/Case Studies\nSkills & Certifications\nLeadership & Service (optional → included)\nContact\n(Optional) Publications — deferred"
+  },
+  {
+    "objectID": "appendix.html#llm-draft-v1-section-intros-raw",
+    "href": "appendix.html#llm-draft-v1-section-intros-raw",
+    "title": "Appendix — LLM Outputs & Revisions",
+    "section": "LLM Draft v1 — Section Intros (raw)",
+    "text": "LLM Draft v1 — Section Intros (raw)\nHome/About: “MBA candidate passionate about strategy and analytics…”\nProjects: “Select case studies with measurable outcomes and artifacts…”\nSkills: “Excel/SQL/Python, A/B testing, forecasting…”\nLeadership: “Influence without authority; inclusivity; volunteer initiatives…”\nContact: “Direct email link, LinkedIn, response window…”"
+  },
+  {
+    "objectID": "appendix.html#my-revisions-what-changed-why",
+    "href": "appendix.html#my-revisions-what-changed-why",
+    "title": "Appendix — LLM Outputs & Revisions",
+    "section": "My Revisions (What changed & why)",
+    "text": "My Revisions (What changed & why)\n\nTone: Rewrote to first-person, removed hype, added concrete metrics.\n\nEvidence: Linked to artifacts and added a simple chart.\n\nCitations: Added APA references for frameworks/facts.\n\nAccessibility: Alt text, aria labels, descriptive links, logical headings.\n\n\nMarkup key: deleted, added, and {placeholders to finalize}."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "MBA Candidate | Aspiring Business Analyst | Strategic Problem Solver\n\n\n Vancouver, BC  hossainrobin6831@gmail.com  LinkedIn\n\n\n\n\nI am currently pursuing an MBA in Business Analytics and Strategic Management at University Canada West. With a background in engineering and experience in digital marketing, customer service, and sales, I bring a unique mix of analytical thinking and interpersonal skills. I enjoy using data to generate insights and translate strategies into practical solutions.\n\n\n\n\n\n\n\nBuilt an early-warning model …\n\n\n\n\n\nSegmented WTP …\n\n\n\n\n\nOperations Club coordinator …\n\n\n\n\nExample inline citation for theory context: climate-strategy questions are evolving (Wickert and Muzio 2024).\n\n\n\n\nThis portfolio blends original work and curated public data. When external statistics or research are used, they are cited in APA style via the site bibliography. LLMs were used for brainstorming and draft scaffolding; I reviewed, verified, and edited all content to ensure accuracy and authentic voice."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "About Me",
+    "section": "",
+    "text": "I am currently pursuing an MBA in Business Analytics and Strategic Management at University Canada West. With a background in engineering and experience in digital marketing, customer service, and sales, I bring a unique mix of analytical thinking and interpersonal skills. I enjoy using data to generate insights and translate strategies into practical solutions."
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "About Me",
+    "section": "",
+    "text": "Built an early-warning model …\n\n\n\n\n\nSegmented WTP …\n\n\n\n\n\nOperations Club coordinator …\n\n\n\n\nExample inline citation for theory context: climate-strategy questions are evolving (Wickert and Muzio 2024)."
+  },
+  {
+    "objectID": "index.html#ethics-sources-llm-disclosure",
+    "href": "index.html#ethics-sources-llm-disclosure",
+    "title": "About Me",
+    "section": "",
+    "text": "This portfolio blends original work and curated public data. When external statistics or research are used, they are cited in APA style via the site bibliography. LLMs were used for brainstorming and draft scaffolding; I reviewed, verified, and edited all content to ensure accuracy and authentic voice."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects and Case Studies",
+    "section": "",
+    "text": "How to read: Each case lists context, actions and results with links to proof (decks/dashboards/models).\n\n\n\nContext: Regional general contractor seeking to increase qualified inbound leads from homeowners and small commercial clients; existing digital spend produced low conversion and inconsistent follow-up.\nActions: Full-funnel audit (SEO/SEM/social/landing pages) keyword and audience refinement, message testing and landing page rebuild. Implemented GA4 + UTM hygiene, lead-scoring rules in CRM, and a structured nurture sequence (email + call cadence). Ran A/B tests on headline, CTA and form length, set weekly KPI reviews.\nResults: {Add metrics: e.g., +X% CTR, –Y% CPL, +Z pp lead-to-opportunity conversion within N weeks.}\nArtifacts: Campaign plan · Funnel dashboard · Landing page mockups\n\n\n\n\n\nContext: DairyFresh Inc. ships temperature-controlled milk across Canadian regions under strict freshness SLAs rising fuel costs and empty backhauls increased per-litre distribution costs.\nActions: Built a network model with facility–store flows, vehicle capacities and delivery time windows evaluated hub-and-spoke vs. direct-ship scenarios. Applied route optimization to minimize distance and late deliveries analyzed backhaul pairings and load consolidation created a dispatch playbook and KPI pack (OTD, km/stop, cost/litre).\nResults: {Add metrics: e.g., –X% total transport cost, –Y% empty kilometres, +Z pp on-time delivery.}\nArtifacts: Optimization model · Scenario comparison sheet · Route maps"
+  },
+  {
+    "objectID": "projects.html#p1-alpha-construction-marketing-strategy-enhancement-initiative",
+    "href": "projects.html#p1-alpha-construction-marketing-strategy-enhancement-initiative",
+    "title": "Projects and Case Studies",
+    "section": "",
+    "text": "Context: Regional general contractor seeking to increase qualified inbound leads from homeowners and small commercial clients; existing digital spend produced low conversion and inconsistent follow-up.\nActions: Full-funnel audit (SEO/SEM/social/landing pages) keyword and audience refinement, message testing and landing page rebuild. Implemented GA4 + UTM hygiene, lead-scoring rules in CRM, and a structured nurture sequence (email + call cadence). Ran A/B tests on headline, CTA and form length, set weekly KPI reviews.\nResults: {Add metrics: e.g., +X% CTR, –Y% CPL, +Z pp lead-to-opportunity conversion within N weeks.}\nArtifacts: Campaign plan · Funnel dashboard · Landing page mockups"
+  },
+  {
+    "objectID": "projects.html#p2-dairyfresh-transportation-case-logistics-strategy-for-canadian-milk-distribution",
+    "href": "projects.html#p2-dairyfresh-transportation-case-logistics-strategy-for-canadian-milk-distribution",
+    "title": "Projects and Case Studies",
+    "section": "",
+    "text": "Context: DairyFresh Inc. ships temperature-controlled milk across Canadian regions under strict freshness SLAs rising fuel costs and empty backhauls increased per-litre distribution costs.\nActions: Built a network model with facility–store flows, vehicle capacities and delivery time windows evaluated hub-and-spoke vs. direct-ship scenarios. Applied route optimization to minimize distance and late deliveries analyzed backhaul pairings and load consolidation created a dispatch playbook and KPI pack (OTD, km/stop, cost/litre).\nResults: {Add metrics: e.g., –X% total transport cost, –Y% empty kilometres, +Z pp on-time delivery.}\nArtifacts: Optimization model · Scenario comparison sheet · Route maps"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "🔗 Download: assets/resume.pdf\n\n\n\n\n\nUniversity Canada West, Vancouver, BC — Master of Business Administration (2023–2025)\n\n\nBangladesh University of Textiles, Dhaka, Bangladesh — BSc in Textile Engineering (2016–2021)\n\n\n\n\n\n\nBusiness Analysis Essentials (LinkedIn Learning)\n\nServe It Right (British Columbia)\n\nDigital Marketing (Digital Marketing Institute)\n\nData Analysis with Python\n\n\n\n\n\n\nSales Consultant — Automotive Dealership, BC (2024–Present)\n- Closed 50+ deals within three months by building strong client relationships and tailoring financing solutions.\n- Consistently ranked among top performers in upselling.\n\n\nSales Representative — TELUS, BC (2023–2024)\n- Conducted daily door-to-door sales and customer service, handling objections and adapting offerings to diverse customer needs.\n\n\nAssistant Merchandiser — Beximco Group, Bangladesh (2021–2023)\n- Managed a product campaign that improved brand visibility by 40%.\n- Designed data-backed social media strategies with measurable impact.\n\n\n\n\n\n\nBusiness & Analysis: Business Analysis, Strategic Planning, CRM\n\nData & Tools: Data Visualization (Excel, Tableau), Python (Data Handling & Analysis)\n\n\nFull details are in the downloadable PDF."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "University Canada West, Vancouver, BC — Master of Business Administration (2023–2025)\n\n\nBangladesh University of Textiles, Dhaka, Bangladesh — BSc in Textile Engineering (2016–2021)"
+  },
+  {
+    "objectID": "resume.html#certifications",
+    "href": "resume.html#certifications",
+    "title": "Resume",
+    "section": "",
+    "text": "Business Analysis Essentials (LinkedIn Learning)\n\nServe It Right (British Columbia)\n\nDigital Marketing (Digital Marketing Institute)\n\nData Analysis with Python"
+  },
+  {
+    "objectID": "resume.html#professional-experience",
+    "href": "resume.html#professional-experience",
+    "title": "Resume",
+    "section": "",
+    "text": "Sales Consultant — Automotive Dealership, BC (2024–Present)\n- Closed 50+ deals within three months by building strong client relationships and tailoring financing solutions.\n- Consistently ranked among top performers in upselling.\n\n\nSales Representative — TELUS, BC (2023–2024)\n- Conducted daily door-to-door sales and customer service, handling objections and adapting offerings to diverse customer needs.\n\n\nAssistant Merchandiser — Beximco Group, Bangladesh (2021–2023)\n- Managed a product campaign that improved brand visibility by 40%.\n- Designed data-backed social media strategies with measurable impact."
+  },
+  {
+    "objectID": "resume.html#key-skills",
+    "href": "resume.html#key-skills",
+    "title": "Resume",
+    "section": "",
+    "text": "Business & Analysis: Business Analysis, Strategic Planning, CRM\n\nData & Tools: Data Visualization (Excel, Tableau), Python (Data Handling & Analysis)\n\n\nFull details are in the downloadable PDF."
+  }
+]
