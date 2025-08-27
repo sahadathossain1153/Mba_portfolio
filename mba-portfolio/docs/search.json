@@ -126,41 +126,6 @@
     "text": "How to read: Each case lists context, actions and results with links to proof (decks/dashboards/models).\n\n\n\nContext: Regional general contractor seeking to increase qualified inbound leads from homeowners and small commercial clients; existing digital spend produced low conversion and inconsistent follow-up.\nActions: Full-funnel audit (SEO/SEM/social/landing pages) keyword and audience refinement, message testing and landing page rebuild. Implemented GA4 + UTM hygiene, lead-scoring rules in CRM, and a structured nurture sequence (email + call cadence). Ran A/B tests on headline, CTA and form length, set weekly KPI reviews.\nResults: {Add metrics: e.g., +X% CTR, –Y% CPL, +Z pp lead-to-opportunity conversion within N weeks.}\nArtifacts: Campaign plan · Funnel dashboard · Landing page mockups\n\n\n\n\n\nContext: DairyFresh Inc. ships temperature-controlled milk across Canadian regions under strict freshness SLAs rising fuel costs and empty backhauls increased per-litre distribution costs.\nActions: Built a network model with facility–store flows, vehicle capacities and delivery time windows evaluated hub-and-spoke vs. direct-ship scenarios. Applied route optimization to minimize distance and late deliveries analyzed backhaul pairings and load consolidation created a dispatch playbook and KPI pack (OTD, km/stop, cost/litre).\nResults: {Add metrics: e.g., –X% total transport cost, –Y% empty kilometres, +Z pp on-time delivery.}\nArtifacts: Optimization model · Scenario comparison sheet · Route maps"
   },
   {
-    "objectID": "projects.html#p1-churn-reduction-analysis-retail",
-    "href": "projects.html#p1-churn-reduction-analysis-retail",
-    "title": "Projects & Case Studies",
-    "section": "",
-    "text": "Context: SMB churn = 3.1%/mo; high seasonality; outreach inconsistent.\nActions: Built logistic model; created early-warning segments; designed outreach playbooks and feedback loop.\nResults: –12% monthly churn; +1.3pp NPS over two cycles.\nArtifacts: Case deck · Appendix"
-  },
-  {
-    "objectID": "projects.html#p2-dynamic-pricing-saas",
-    "href": "projects.html#p2-dynamic-pricing-saas",
-    "title": "Projects & Case Studies",
-    "section": "",
-    "text": "Context: Flat ARPU; discount-heavy quarters; limited expansion revenue.\nActions: Segmented WTP by cohort; tested two price ladders; launched price page updates.\nResults: +7% ARPU; +4.2pp gross margin in two quarters.\nArtifacts: Dashboard · One-pager"
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "🔗 Download: assets/resume.pdf\n\n\n\n\n\nUniversity Canada West, Vancouver, BC — Master of Business Administration (2023–2025)\n\n\nBangladesh University of Textiles, Dhaka, Bangladesh — BSc in Textile Engineering (2016–2021)\n\n\n\n\n\n\nBusiness Analysis Essentials (LinkedIn Learning)\n\nServe It Right (British Columbia)\n\nDigital Marketing (Digital Marketing Institute)\n\nData Analysis with Python\n\n\n\n\n\n\nSales Consultant — Automotive Dealership, BC (2024–Present)\n- Closed 50+ deals within three months by building strong client relationships and tailoring financing solutions.\n- Consistently ranked among top performers in upselling.\n\n\nSales Representative — TELUS, BC (2023–2024)\n- Conducted daily door-to-door sales and customer service, handling objections and adapting offerings to diverse customer needs.\n\n\nAssistant Merchandiser — Beximco Group, Bangladesh (2021–2023)\n- Managed a product campaign that improved brand visibility by 40%.\n- Designed data-backed social media strategies with measurable impact.\n\n\n\n\n\n\nBusiness & Analysis: Business Analysis, Strategic Planning, CRM\n\nData & Tools: Data Visualization (Excel, Tableau), Python (Data Handling & Analysis)\n\n\nFull details are in the downloadable PDF."
-  },
-  {
-    "objectID": "resume.html#snapshot",
-    "href": "resume.html#snapshot",
-    "title": "Resume",
-    "section": "",
-    "text": "Focus: Strategy | Product | Analytics\nTools: Excel, SQL, Python/R, Tableau/Power BI\nInterests: Growth strategy, digital ops, data-driven decisions\n\n\nFull details are in the downloadable PDF."
-  },
-  {
-    "objectID": "resume.html#experience-brief",
-    "href": "resume.html#experience-brief",
-    "title": "Resume",
-    "section": "",
-    "text": "Company A — Role (YYYY–YYYY)\nReduced churn 12% with early-warning model and outreach workflows.\n\n\nCompany B — Role (YYYY–YYYY)\nImplemented dynamic pricing — margin +4.2pp within two quarters.\n\n\n\nFull details are in the downloadable PDF."
-  },
-  {
     "objectID": "projects.html#p1-alpha-construction-marketing-strategy-enhancement-initiative",
     "href": "projects.html#p1-alpha-construction-marketing-strategy-enhancement-initiative",
     "title": "Projects and Case Studies",
@@ -173,6 +138,13 @@
     "title": "Projects and Case Studies",
     "section": "",
     "text": "Context: DairyFresh Inc. ships temperature-controlled milk across Canadian regions under strict freshness SLAs rising fuel costs and empty backhauls increased per-litre distribution costs.\nActions: Built a network model with facility–store flows, vehicle capacities and delivery time windows evaluated hub-and-spoke vs. direct-ship scenarios. Applied route optimization to minimize distance and late deliveries analyzed backhaul pairings and load consolidation created a dispatch playbook and KPI pack (OTD, km/stop, cost/litre).\nResults: {Add metrics: e.g., –X% total transport cost, –Y% empty kilometres, +Z pp on-time delivery.}\nArtifacts: Optimization model · Scenario comparison sheet · Route maps"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "🔗 Download: assets/resume.pdf\n\n\n\n\n\nUniversity Canada West, Vancouver, BC — Master of Business Administration (2023–2025)\n\n\nBangladesh University of Textiles, Dhaka, Bangladesh — BSc in Textile Engineering (2016–2021)\n\n\n\n\n\n\nBusiness Analysis Essentials (LinkedIn Learning)\n\nServe It Right (British Columbia)\n\nDigital Marketing (Digital Marketing Institute)\n\nData Analysis with Python\n\n\n\n\n\n\nSales Consultant — Automotive Dealership, BC (2024–Present)\n- Closed 50+ deals within three months by building strong client relationships and tailoring financing solutions.\n- Consistently ranked among top performers in upselling.\n\n\nSales Representative — TELUS, BC (2023–2024)\n- Conducted daily door-to-door sales and customer service, handling objections and adapting offerings to diverse customer needs.\n\n\nAssistant Merchandiser — Beximco Group, Bangladesh (2021–2023)\n- Managed a product campaign that improved brand visibility by 40%.\n- Designed data-backed social media strategies with measurable impact.\n\n\n\n\n\n\nBusiness & Analysis: Business Analysis, Strategic Planning, CRM\n\nData & Tools: Data Visualization (Excel, Tableau), Python (Data Handling & Analysis)\n\n\nFull details are in the downloadable PDF."
   },
   {
     "objectID": "resume.html#education",
