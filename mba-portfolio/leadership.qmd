@@ -1,0 +1,22 @@
+---
+title: "Leadership & Service"
+description: "Roles, impact, ethics, and recognition."
+---
+
+# Leadership & Service
+
+## Roles & Impact
+<div class="timeline">
+  <div class="tl-item">
+    <strong>Operations Club — Coordinator (2024–2025)</strong><br/>
+    Launched mentorship circle; membership <strong>+48%</strong>.
+  </div>
+  <div class="tl-item">
+    <strong>Community Volunteering — Organizer (2023–2024)</strong><br/>
+    Coordinated three drives; funds raised: <strong>$18k</strong>.
+  </div>
+</div>
+
+## Inclusion & Ethics
+- Lead with transparency and data; invite dissenting views in pre-mortems.
+- Default to accessibility-first content (alt text, keyboard nav, contrast).

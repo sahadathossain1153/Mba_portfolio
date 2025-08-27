@@ -1,0 +1,14 @@
+---
+title: "Contact"
+description: "Best ways to reach me."
+---
+
+# Contact
+
+<div class="card">
+  <p><i class="bi bi-geo-alt" aria-hidden="true"></i> <strong>Address:</strong> 4 E 46th Avenue, Vancouver, British Columbia, V5W 1Z1</p>
+  <p><i class="bi bi-envelope" aria-hidden="true"></i> <strong>Email:</strong> <a href="mailto:hossainrobin6831@gmail.com">hossainrobin6831@gmail.com</a></p>
+  <p><i class="bi bi-linkedin" aria-hidden="true"></i> <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/md-sahadat-hossainn" target="_blank">linkedin.com/in/md-sahadat-hossainn</a></p>
+  <p><i class="bi bi-clock" aria-hidden="true"></i> <strong>Location/Time zone:</strong> Vancouver, BC · GMT-7/−8</p>
+  <p>For collaborations or speaking, include a short context and timeline in your message.</p>
+</div>

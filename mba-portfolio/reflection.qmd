@@ -1,0 +1,22 @@
+---
+title: "Reflection — Using LLMs Across a Multi-Page Build"
+---
+
+# Reflection (≈370 words)
+
+**What improved as I added pages.**  
+Moving from a single-page site to a multi-page portfolio forced me to clarify my information architecture. I began by asking an LLM to propose a site map prioritizing recruiter needs (Resume and Projects above the fold). That sped up planning. I then iterated on section scaffolds and shifted to a consistent *context → actions → results* frame for case studies. The separation of pages also made my navigation cleaner and the content easier to skim.
+
+**Ensuring authenticity and accuracy.**  
+I treated LLM output as a draft scaffold rather than a final product. For each project I replaced generic phrases with my real numbers and linked to artifacts (decks or dashboards). Where I referenced external facts or frameworks, I used APA-style citations and verified sources independently. If I could not verify a claim, I removed it. I also used the LLM to generate checklists (e.g., “What must a case study include to be credible?”) and used those to audit each page for evidence and clarity.
+
+**Accessibility and usability practices.**  
+I added alternative text to images, descriptive link names (“Download resume (PDF)” rather than “click here”), and checked heading order. I chose a high-contrast, readable theme and tested keyboard focus. I enabled the site search, kept the content width to about 920px for better reading, and used simple progress bars with ARIA labels for skill proficiency.
+
+**What didn’t work and how I adapted.**  
+Early drafts from the LLM sounded generic and sometimes overstated achievements. I solved this by feeding bullet-point facts first (metrics, role, timeline) and asking for a concise, first‑person rewrite. I also centralized visual styling in a single CSS file and previewed often to catch spacing issues.
+
+**What I would do next.**  
+I plan to add a Publications page after I publish more writing and to convert the project visuals into cleaner before/after charts. I will also add basic analytics to understand which pages matter most to recruiters and iterate accordingly.
+
+> LLM disclosure: I used an LLM to brainstorm the site map, generate initial prose scaffolds, and produce checklists. I reviewed, verified, and edited all content and take full responsibility for accuracy.

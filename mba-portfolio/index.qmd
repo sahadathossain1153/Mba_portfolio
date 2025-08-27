@@ -1,0 +1,47 @@
+---
+title: "About Me"
+description: "MBA candidate portfolio — projects, leadership and impact."
+image: assets/headshot.jpg
+---
+
+# Md Sahadat Hossain
+
+::: {.subtitle}
+MBA Candidate | Aspiring Business Analyst | Strategic Problem Solver
+:::
+
+::: {.meta role="list" aria-label="Contact and profile"}
+<span class="item" role="listitem"><i class="bi bi-geo-alt-fill" aria-hidden="true"></i> Vancouver, BC</span>
+<span class="item" role="listitem"><i class="bi bi-envelope-fill" aria-hidden="true"></i> <a href="mailto:hossainrobin6831@gmail.com">hossainrobin6831@gmail.com</a></span>
+<span class="item" role="listitem"><i class="bi bi-link-45deg" aria-hidden="true"></i> <a href="https://www.linkedin.com/in/md-sahadat-hossainn" target="_blank" aria-label="Open LinkedIn profile">LinkedIn</a></span>
+:::
+
+![](assets/headshot.jpg){fig-alt="Headshot of Md Sahadat Hossain" width="160"}
+
+## About Me {.section-title}
+
+I am currently pursuing an MBA in Business Analytics and Strategic Management at University Canada West. With a background in engineering and experience in digital marketing, customer service, and sales, I bring a unique mix of analytical thinking and interpersonal skills. I enjoy using data to generate insights and translate strategies into practical solutions.
+
+## Highlights {.section-title}
+
+<div class="card-grid">
+<div class="card">
+<h3>Churn Reduction</h3>
+<p>Built an early-warning model …</p>
+</div>
+<div class="card">
+<h3>Dynamic Pricing</h3>
+<p>Segmented WTP …</p>
+</div>
+<div class="card">
+<h3>Leadership</h3>
+<p>Operations Club coordinator …</p>
+</div>
+</div>
+
+> Example inline citation for theory context: climate-strategy questions are evolving [@wickert2024strategy].
+
+
+## Ethics, Sources & LLM Disclosure {.section-title}
+
+This portfolio blends original work and curated public data. When external statistics or research are used, they are cited in APA style via the site bibliography. LLMs were used for brainstorming and draft scaffolding; I reviewed, verified, and edited all content to ensure accuracy and authentic voice.

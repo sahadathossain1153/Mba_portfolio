@@ -1,0 +1,55 @@
+---
+title: "Resume"
+description: "Resume summary and downloadable PDF."
+---
+
+# Resume
+
+- 🔗 **Download:** [assets/resume.pdf](assets/resume.pdf){target="_blank" aria-label="Open resume PDF"}
+
+## Education {.section-title}
+
+:::: {.timeline}
+::: {.tl-item}
+**University Canada West, Vancouver, BC** — *Master of Business Administration* (2023–2025)
+:::
+
+::: {.tl-item}
+**Bangladesh University of Textiles, Dhaka, Bangladesh** — *BSc in Textile Engineering* (2016–2021)
+:::
+::::
+
+## Certifications {.section-title}
+
+- Business Analysis Essentials (LinkedIn Learning)  
+- Serve It Right (British Columbia)  
+- Digital Marketing (Digital Marketing Institute)  
+- Data Analysis with Python
+
+## Professional Experience {.section-title}
+
+:::: {.timeline}
+::: {.tl-item}
+**Sales Consultant — Automotive Dealership, BC** *(2024–Present)*  
+- Closed **50+ deals** within three months by building strong client relationships and tailoring financing solutions.  
+- Consistently ranked among top performers in upselling.
+:::
+
+::: {.tl-item}
+**Sales Representative — TELUS, BC** *(2023–2024)*  
+- Conducted daily door-to-door sales and customer service, handling objections and adapting offerings to diverse customer needs.
+:::
+
+::: {.tl-item}
+**Assistant Merchandiser — Beximco Group, Bangladesh** *(2021–2023)*  
+- Managed a product campaign that improved brand visibility by **40%**.  
+- Designed data-backed social media strategies with measurable impact.
+:::
+::::
+
+## Key Skills {.section-title}
+
+- **Business & Analysis:** Business Analysis, Strategic Planning, CRM  
+- **Data & Tools:** Data Visualization (Excel, Tableau), Python (Data Handling & Analysis)
+
+> Full details are in the downloadable PDF.

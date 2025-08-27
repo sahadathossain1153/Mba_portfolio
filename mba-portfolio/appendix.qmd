@@ -1,0 +1,32 @@
+---
+title: "Appendix — LLM Outputs & Revisions"
+toc: true
+---
+
+> This appendix stores the **LLM-generated** site map and section drafts and shows **how I revised** them for authenticity and accuracy.
+
+## LLM Draft v1 — Site Map
+- Home/About
+- Resume/CV
+- Projects/Case Studies
+- Skills & Certifications
+- Leadership & Service (optional → included)
+- Contact
+- (Optional) Publications — deferred
+
+## LLM Draft v1 — Section Intros (raw)
+**Home/About:** “MBA candidate passionate about strategy and analytics…”  
+**Projects:** “Select case studies with measurable outcomes and artifacts…”  
+**Skills:** “Excel/SQL/Python, A/B testing, forecasting…”  
+**Leadership:** “Influence without authority; inclusivity; volunteer initiatives…”  
+**Contact:** “Direct email link, LinkedIn, response window…”
+
+---
+
+## My Revisions (What changed & why)
+- **Tone:** Rewrote to first-person, removed hype, added concrete metrics.  
+- **Evidence:** Linked to artifacts and added a simple chart.  
+- **Citations:** Added APA references for frameworks/facts.  
+- **Accessibility:** Alt text, aria labels, descriptive links, logical headings.
+
+> Markup key: ~~deleted~~, **added**, and {placeholders to finalize}.

@@ -1,0 +1,41 @@
+---
+title: "Skills & Certifications"
+description: "Core skills, tooling, and credentials."
+---
+
+# Skills & Certifications
+
+## Core Skills
+- **Analytics:** A/B testing, forecasting, cohort analysis
+- **Business:** Market sizing, unit economics, competitive strategy
+- **Tools:** Excel, SQL, Python/R, Tableau/Power BI, Quarto
+
+## Proficiency (self-rated)
+
+:::: {.row}
+::: {.col-md-6}
+**Excel/Sheets**  
+<progress value="90" max="100" aria-label="Excel proficiency 90 percent"></progress>
+:::
+
+::: {.col-md-6}
+**SQL**  
+<progress value="75" max="100" aria-label="SQL proficiency 75 percent"></progress>
+:::
+
+::: {.col-md-6}
+**Python/R**  
+<progress value="70" max="100" aria-label="Python and R proficiency 70 percent"></progress>
+:::
+
+::: {.col-md-6}
+**Tableau/Power BI**  
+<progress value="70" max="100" aria-label="Business intelligence tools proficiency 70 percent"></progress>
+:::
+::::
+
+## Certifications
+- Business Analysis Essentials (LinkedIn Learning)
+- Serve It Right (British Columbia)
+- Digital Marketing (Digital Marketing Institute)
+- Data Analysis with Python

@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Md Sahadat Hossain — MBA Portfolio"
+  navbar:
+    background: "#0d6efd"      # blue
+    foreground: "#ffffff"      # keep text/icons readable
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: resume.qmd
+        text: Resume
+      - href: projects.qmd
+        text: Projects
+      - href: skills.qmd
+        text: Skills
+      - href: leadership.qmd
+        text: Leadership & Service
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: linkedin
+        aria-label: "LinkedIn profile"
+        href: https://www.linkedin.com/in/md-sahadat-hossainn
+      - icon: envelope
+        aria-label: "Send me an email"
+        href: mailto:hossainrobin6831@gmail.com
+  page-footer:
+    left: "© 2025 Md Sahadat Hossain"
+    right: "[Privacy](#) • [Imprint](#)"
+  open-graph: true
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+    smooth-scroll: true
+    code-copy: true
+    link-external-newwindow: true
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+    css: assets/styles.css
+
+bibliography: references.bib
+# csl: apa.csl
